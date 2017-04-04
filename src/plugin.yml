@@ -1,0 +1,8 @@
+name: VendingMachine
+main: de.mavecrit.vendingmachine.Main
+version: 1-release
+author: MaveCrit
+commands:
+   getdollar:
+      description: Gives you special power
+      usage: /<command>
